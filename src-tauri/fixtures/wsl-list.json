@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Ubuntu",
+    "state": "Running",
+    "version": 2,
+    "default": true,
+    "distribution": "Ubuntu 22.04 LTS",
+    "ipAddress": "172.21.21.2"
+  },
+  {
+    "name": "Debian",
+    "state": "Stopped",
+    "version": 2,
+    "default": false,
+    "distribution": "Debian GNU/Linux 12"
+  },
+  {
+    "name": "openSUSE-Leap",
+    "state": "Stopped",
+    "version": 1,
+    "default": false,
+    "distribution": "openSUSE Leap 15.5"
+  }
+]

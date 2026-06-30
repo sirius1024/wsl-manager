@@ -1,0 +1,4 @@
+  NAME              STATE       VERSION
+* Ubuntu            Running     2
+  Debian            Stopped     2
+  openSUSE-Leap     Stopped     1
